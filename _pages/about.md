@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+**Hi!** This is Tahera, a MSc student in [Electronic&nbsp;Security&nbsp;Privacy](https://www.ucalgary.ca/labs/espri/people) under the supervision of [Rei&nbsp;Safavi-Naeini](https://science.ucalgary.ca/computer-science/contacts/rei-safavi-naeini/) at [UCalgary](https://www.ucalgary.ca) in Canada, started in January 2022.
+Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 4 years (BSc in Computer Engineering), supervised by [Hamidreza&nbsp;Shahriari](https://aut.ac.ir/cv/2479/HamidReza-Shahriari?slc_lang=en&&cv=2479&mod=scv). Since then, I have been pursuing my passion for:
+<ul class='twocol' style="margin-top: -1%;" markdown='1'>
+<li> Vulnerability Detection With Machine Learning</li>
+<li> Malware Detection</li>
+<li> Information-Flow Security</li>
+<li> Blockchain Security</li>
+</ul>
 
 A data-driven personal website
 ======
