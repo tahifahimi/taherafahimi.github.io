@@ -7,7 +7,16 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Last update: Jun 2022
+- Short CV [[pdf](/files/short-cv.pdf)]
+- Long CV [[pdf](/files/long-cv.pdf)]
+
+### Transcripts
+- MSc [[pdf](/files/M.Sc.Transcript-en.pdf)]
+- BSc [[pdf](/files/B.Sc.Transcript-en.pdf)]
+
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -56,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
