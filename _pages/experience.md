@@ -7,10 +7,18 @@ author_profile: true
 
 
 
-I *love* teaching and I've been ardently doing it since I was a in high school student. Here are my academic experiences:
+### Research Assistant - [UoC](https://ucalgary.ca)
+#### Jan2022- Present
+- Curently working on health applications in Blockchain
+- Working on Blockchain vulnerabilities.
 
-## UCalgary:
-- [Introduction to Computer Science for Multidisciplinary Studies I (CPSC217)](https://contacts.ucalgary.ca/info/cpsc/courses/w22/CPSC217?destination=courses%2Fw22), by [Adnan Karim](https://contacts.ucalgary.ca/info/cpsc/profiles/1-11361783), Winter 2022
+### Junior of AI Engineeer - UoC
+#### Jan2022- Present
+- Curently working on health applications in Blockchain
+- Working on Blockchain vulnerabilities.
+
+
+
 
 ## Tehran Polytechnic: 
 

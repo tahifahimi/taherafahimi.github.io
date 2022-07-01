@@ -17,6 +17,24 @@ Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) 
 <li> Blockchain Security</li>
 </ul>
 
+
+I *love* teaching and I've been ardently doing it since I was a in high school student. Here are my academic experiences:
+
+## UCalgary:
+- [Introduction to Computer Science for Multidisciplinary Studies I (CPSC217)](https://contacts.ucalgary.ca/info/cpsc/courses/w22/CPSC217?destination=courses%2Fw22), by [Adnan Karim](https://contacts.ucalgary.ca/info/cpsc/profiles/1-11361783), Winter 2022
+
+## Tehran Polytechnic: 
+
+- Information Security, by [Hamidreza Shahriari](http://aut.ac.ir/shahriari), Fall 2021
+
+- Computer Networks, by [Massoud Sabai](https://aut.ac.ir/cv/2446/MASOUD-SABAEI?slc_lang=en&&cv=2446&mod=scv), Fall 2019
+
+- Fundamentals of Artificial Intelligence, by [Fateme Mousavi](http://aut.ac.ir/en), Fall 2020
+
+- Cloud Computing, by [Seyyed Ahmad Javadi](https://aut.ac.ir/cv/21291/S.Ahmad-Javadi?slc_lang=en&&cv=21291&mod=scv), Spring 2021
+
+
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
