@@ -12,6 +12,9 @@ main:
   - title : "Projects"
     url: /projects/
 
+ - title : "Skills"
+    url: /skills/
+
   - title: "Honors and Activities"
     url: /honors/
 
@@ -26,5 +29,4 @@ main:
 
   - title: "Others"
     url: /others/  
-  
   

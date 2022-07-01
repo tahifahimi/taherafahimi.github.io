@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Honors and Activities"
-permalink: /honors/
+title: "Technical and Soft Skills"
+permalink: /skills/
 author_profile: true
 ---
 
