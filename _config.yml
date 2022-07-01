@@ -85,8 +85,8 @@ author:
   bio              : "Master's Student in Computer Science&nbsp;Security<br><a href='https://www.ucalgary.ca'><img src='/images/ucalgary.png' width='20' height='20'></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png' width='20' height='20'></a>"
   location         : "Calgary, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            :  "tahera.fahimi@ucalgary.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : http://stackoverflow.com/users/11696726/tahi
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :

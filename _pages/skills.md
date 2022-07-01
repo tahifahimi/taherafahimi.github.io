@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Technical and Soft Skills"
+title: "Skills"
 permalink: /skills/
 author_profile: true
 ---
