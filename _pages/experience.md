@@ -39,5 +39,4 @@ author_profile: true
     <li>Private Python course for high school students with no background in programming languages.</li>
 </ul>
 </li>
-
 </ul>
