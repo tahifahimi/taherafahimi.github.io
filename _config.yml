@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tahera Fahimi"
   avatar           : "profile.jpeg"
-  bio              : "Master's Student in Computer Science&nbsp;Security<br><a href='https://www.ucalgary.ca'><img src='/images/ucalgary.png' width='100' height='100'></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png' width='100' height='100'></a>"
+  bio              : "Master's Student in Computer Science&nbsp;Security<br><a href='https://www.ucalgary.ca'><img src='/images/ucalgary.png' width='20' height='20'></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png' width='20' height='20'></a>"
   location         : "Calgary, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
