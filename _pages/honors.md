@@ -8,10 +8,15 @@ author_profile: true
 
 <ul>
 
-<li><b>External Reviewer</b> of the conference flagships <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>.</li>
+<li>Achieve a <b>fully-funded</b> scholarship for a master's degree in security at the<a href="https://www.ucalgary.ca">UoC</a>. Sep2021</li>
 
-<li><b>Session chair</b> on CTF and speaker at <a href="https://swits.hotell.kau.se/AnnualSeminars/SWITS_2022/SWITS2022_programme.htm">SWITS'22</a>.</li> 
+<li>Ranked Within the <b>Top 5%</b> of Class 2021 in Computer Engineering Department with a <b>CGPA of 18.43/20</b>, AUT. Here is the <a href="/files/proof.pdf">proof</a></li> 
 
-<li><b>Recipient</b> of the <a href="http://adlerbertska.se/en/hospitality/the-foundation/">Adlerbert Foreign Student Hospitality Foundation</a> scholarship, 2021 and 2022.</li>
+<li><b>Full Tuition Waiver</b> Scholarship from AUT.</li>
 
+<li>Achieved the <b>Top 0.2%</b> Place Among All Applicants in the Iranian University Entrance Exam (nearly 140000 applicants).</li>
+
+<li>Graduated as the best student of the High School with a GPA of 19.73 (out of 20).</li>
 </ul>
+
+

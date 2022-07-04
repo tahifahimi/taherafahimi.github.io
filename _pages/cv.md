@@ -12,8 +12,8 @@ Last update: Jun 2022
 - Long CV [[pdf](/files/long-cv.pdf)]
 
 ### Transcripts
-- MSc [[pdf](/files/M.Sc.Transcript-en.pdf)]
-- BSc [[pdf](/files/B.Sc.Transcript-en.pdf)]
+- MSc [[pdf](/files/transcript-MSC.pdf)]
+- BSc [[pdf](/files/transcript-BSc.pdf)]
 
 
 <!-- {% include base_path %}

@@ -5,8 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
+###Projects will be updated till end of July.
 
 <ul>
+<li>Main BSc final project: <b><a href="https://github.com/tahifahimi/Py_Mitch">Design and implementation of web application analysis software to detect Cross-Site Scripting and injection vulnerabilities</a></b> </li>
 
 <li><b>Penetration Test in Kali Linux</b> : Checking vulnerability of windows XP with Metasploit in Kali.</li>
 
@@ -24,6 +26,7 @@ author_profile: true
 
 <li><b><a href="https://github.com/tahifahimi/Darmankade">Simple Clinic Website</a></b>: A simple clinic website in Persian language, written with ReactJs and Python for frontend and backend</li>
 
+add final projects
 
 
 </ul>
