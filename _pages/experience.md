@@ -34,9 +34,9 @@ author_profile: true
 </ul>
 </li>
 
-<li><b>Tutor</b> at <a href="https://www.tutordoctor.com/">TutorDoctor</a>. May2022 - Present
+<!-- <li><b>Tutor</b> at <a href="https://www.tutordoctor.com/">TutorDoctor</a>. May2022 - Present
 <ul>
     <li>Private Python course for high school students with no background in programming languages.</li>
 </ul>
-</li>
+</li> -->
 </ul>
