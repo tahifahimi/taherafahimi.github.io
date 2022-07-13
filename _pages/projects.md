@@ -26,7 +26,4 @@ author_profile: true
 
 <li><b><a href="https://github.com/tahifahimi/Darmankade">Simple Clinic Website</a></b>: A simple clinic website in Persian language, written with ReactJs and Python for frontend and backend</li>
 
-add final projects
-
-
 </ul>
