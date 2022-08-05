@@ -13,7 +13,7 @@ Last update: Jun 2022
 
 ### Transcripts
 - MSc [[pdf](/files/transcript-MSC.pdf)]
-- BSc [[pdf](/files/transcript-BSc.pdf)]
+- BSc [[pdf](/files/transcript_BSc.pdf)]
 
 
 <!-- {% include base_path %}
