@@ -12,7 +12,15 @@ author_profile: true
 <li><b>Research Assistant</b> at <a href="https://ucalgary.ca">UoC</a>. Jan 2022-Present 
 <ul>
     <li>Curently working on health applications in Blockchain.</li>
-    <li>Working on Blockchain vulnerabilities.</li>
+    <li>Working on Blockchain systems .</li>
+</ul>
+</li>
+
+
+<li><b>Mental Health Subcommitee</b> at <a href="https://gsa.ucalgary.ca/">GSA in UoC</a>. Sep 2022-Present 
+<ul>
+    <li>Working as Volunteer to improve mental health in university of Calgary.</li>
+    <li>Improving the access to mental health resources for students.</li>
 </ul>
 </li>
 
