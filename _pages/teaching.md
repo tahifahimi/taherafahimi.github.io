@@ -10,6 +10,10 @@ author_profile: true
 I *love* teaching and I've been ardently doing it since I was a in high school student. Here are my academic experiences:
 
 ## UCalgary:
+- [Exploration in Information Security and Privacy (CPSC329)](https://contacts.ucalgary.ca/info/cpsc/courses/w23/CPSC329?destination=courses), by [Janet Leahy](https://contacts.ucalgary.ca/info/cpsc/profiles/1-9467233), winter 2023
+
+- [Exploration in Information Security and Privacy (CPSC329)](https://contacts.ucalgary.ca/info/cpsc/courses/f22/CPSC329?destination=courses%2Ff22), by [Rei Safavi](hhttps://contacts.ucalgary.ca/info/cpsc/profiles/102-3394), Fall 2023
+
 - [Introduction to Computer Science for Multidisciplinary Studies I (CPSC217)](https://contacts.ucalgary.ca/info/cpsc/courses/w22/CPSC217?destination=courses%2Fw22), by [Adnan Karim](https://contacts.ucalgary.ca/info/cpsc/profiles/1-11361783), Winter 2022
 
 ## Tehran Polytechnic: 

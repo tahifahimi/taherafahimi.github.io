@@ -5,9 +5,17 @@ permalink: /projects/
 author_profile: true
 ---
 
-###Projects will be updated till end of July.
 
 <ul>
+
+<li>Source Attribution of News Articles: <b><a href="https://github.com/tahifahimi/newsAuthorship.git">Design and implementation of an information theory method for authorship detection in news data</a></b> 
+<ul>
+<li>We have used Machine learning models to calculate the efficiency of our method <a href="https://www.kaggle.com/datasets/snapcrack/all-the-news"> is the dataset</a> to train the models.</li>
+<li>We got our imspiration from this <a href="https://dl.acm.org/doi/10.1145/3180445.3180451">paper</a> </li>
+</ul>
+</li>
+
+
 <li>Main BSc final project: <b><a href="https://github.com/tahifahimi/Py_Mitch">Design and implementation of web application analysis software to detect Cross-Site Scripting and injection vulnerabilities</a></b> 
 <ul>
 <li>We have used Machine learning models and sanitized labelled <a href="https://github.com/alviser/mitch/tree/master/dataset">dataset</a> to train the models.</li>
