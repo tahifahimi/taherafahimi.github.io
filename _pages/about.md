@@ -21,7 +21,12 @@ Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) 
 
 # Teaching Experience
 ### UCalgary:
+- [Exploration in Information Security and Privacy (CPSC329)](https://contacts.ucalgary.ca/info/cpsc/courses/w23/CPSC329?destination=courses), by [Janet Leahy](https://contacts.ucalgary.ca/info/cpsc/profiles/1-9467233), winter 2023
+
+- [Exploration in Information Security and Privacy (CPSC329)](https://contacts.ucalgary.ca/info/cpsc/courses/f22/CPSC329?destination=courses%2Ff22), by [Rei Safavi](hhttps://contacts.ucalgary.ca/info/cpsc/profiles/102-3394), Fall 2023
+
 - [Introduction to Computer Science for Multidisciplinary Studies I (CPSC217)](https://contacts.ucalgary.ca/info/cpsc/courses/w22/CPSC217?destination=courses%2Fw22), by [Adnan Karim](https://contacts.ucalgary.ca/info/cpsc/profiles/1-11361783), Winter 2022
+
 ### Tehran Polytechnic:
 - Information Security, by [Hamidreza Shahriari](http://aut.ac.ir/shahriari), Fall 2021
 - Computer Networks, by [Massoud Sabai](https://aut.ac.ir/cv/2446/MASOUD-SABAEI?slc_lang=en&&cv=2446&mod=scv), Fall 2019
@@ -38,6 +43,21 @@ Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) 
     <li>Working on Blockchain vulnerabilities.</li>
 </ul>
 </li>
+
+<li><b>Software Developer Intern </b> at <a href="">SWIM watershed - UoC & IBM</a>. Jan 2023-Present 
+<ul>
+    <li>Implementing SWIM watershed website.</li>
+    <li>Improving the functionality of the website.</li>
+</ul>
+</li>
+
+<li><b>Mental Health Subcommitee</b> at <a href="https://gsa.ucalgary.ca/">GSA in UoC</a>. Sep 2022-Dec 2022 
+<ul>
+    <li>Working as Volunteer to improve mental health in university of Calgary.</li>
+    <li>Improving the access to mental health resources for students.</li>
+</ul>
+</li>
+
 
 <li><b>Junior of AI Engineeer</b> at <a href="https://www.partsoftware.com/">Part Software Co</a>. May 2021 - Dec2021
 <ul>
@@ -57,11 +77,6 @@ Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) 
 </ul>
 </li>
 
-<li><b>Tutor</b> at <a href="https://www.tutordoctor.com/">TutorDoctor</a>. May2022 - Present
-<ul>
-    <li>Private Python course for high school students with no background in programming languages.</li>
-</ul>
-</li>
 </ul>
 
 
