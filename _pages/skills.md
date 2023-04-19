@@ -5,14 +5,24 @@ permalink: /skills/
 author_profile: true
 ---
 
+#   Skills
 
 <ul>
-<li>Achieve a <b>fully-funded</b> scholarship for a master's degree in security at the UoC. - Calgary, Canada - 2021</li>
+<li><b>Programming Languages</b>: Python (experienced in Scikit-Learn, TensorFlow, Pandas, NumPy, PyTorch), Java, C, JavaScript, LaTeX.</li>
 
-<li> <b>Ranked</b> Within the <b>Top 5%</b> of Class 2021 in Computer Engineering Department with a CGPA of 18.43/20, AUT. - Tehran, Iran -2020</li>
+<li><b>OS and Kernel Programming</b>: Linux (Kali, Debian, Ubuntu server), XV6, Windows.</li>
 
-<li> Achieved the <b>Top 0.2%</b> Place Among All Applicants in the Iranian University Entrance Exam (nearly 140000 applicants) - 2017</li>
+<li><b>Virtualization and Distributed Systems</b>: VirtualBox, KVM, Hadoop Distributed System(HDFS), Spark.</li>
 
-<li>Graduated as the best student of the High School with a GPA of 19.73 (out of 20). - Tehran, Iran - 2016 </li>
+<li><b>Security</b>:<a href:"https://www.coursera.org/learn/crypto/home/week/1">Cryptography</a>, CEH(Certified Ethical Hacker)</li>
 
+<li><b>Reverse Engineering Tools</b>: OllyDbg, IDA-Pro, CFF Explorer, API Monitor, PEiD, Process Monitor.</li>
+
+<li><b>Network Simulation Tools</b>: NMAP, Cisco Packet Tracer, Wireshark, Boson NetSim.</li>
+
+<li><b>Software Development</b>: Git, UML, MySQL.</li>
+
+<li><b>Web Application Development</b>: ReactJs, HTML, CSS, JavaScript.</li>
+
+<li><b>IDE</b>: PyCharm, Visual Studio Code, IntelliJ.</li>
 </ul>
