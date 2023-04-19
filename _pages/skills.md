@@ -14,7 +14,7 @@ author_profile: true
 
 <li><b>Virtualization and Distributed Systems</b>: VirtualBox, KVM, Hadoop Distributed System(HDFS), Spark.</li>
 
-<li><b>Security</b>:<a href:"https://www.coursera.org/learn/crypto/home/week/1">Cryptography</a>, CEH(Certified Ethical Hacker)</li>
+<li><b>Security</b>:<a href="https://www.coursera.org/learn/crypto/home/week/1">Cryptography</a>, CEH(Certified Ethical Hacker)</li>
 
 <li><b>Reverse Engineering Tools</b>: OllyDbg, IDA-Pro, CFF Explorer, API Monitor, PEiD, Process Monitor.</li>
 
