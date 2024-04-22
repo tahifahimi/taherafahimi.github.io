@@ -9,6 +9,14 @@ author_profile: true
 .farsi{ font-family:PERSWEB; font-weight: bold; font-size:11pt;}
 </style>
 
+- Source Attribution of News Articles [[pdf](https://github.com/tahifahimi/Booklets/blob/main/Source%20Attribution%20of%20News%20Articles.pdf)]
+<br>Lecturer: Rei Safavi-Naini,
+*Winter 2023*
+
+- Proposing An Educational Resource for Exploit Detection of Common Vulnerabilities via Packet Analysis [[pdf](https://github.com/tahifahimi/Booklets/blob/main/Proposing%20An%20Education.pdf)]
+<br>Lecturer: Joel Reardon,
+*Fall 2023*
+
 - Foundations of Access Control [[pdf](https://github.com/tahifahimi/Booklets/blob/main/Authorization%20Tokens.pdf)]
 <br>Lecturer: Phillip Fong,
 *Winter 2022*

@@ -11,8 +11,8 @@ redirect_from:
 - Short CV [[pdf](/files/short-cv.pdf)]
 - Long CV [[pdf](/files/long-cv.pdf)] -->
 
-### Transcripts
-<!-- - MSc [[pdf](/files/M.Sc.Transcript-en.pdf)]
+<!-- ### Transcripts
+- MSc [[pdf](/files/M.Sc.Transcript-en.pdf)]
 - BSc [[pdf](/files/B.Sc.Transcript-en.pdf)] -->
 
 
