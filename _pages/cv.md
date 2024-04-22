@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
-Last update: Jun 2022
+<!-- Last update: Jun 2022
 - Short CV [[pdf](/files/short-cv.pdf)]
-- Long CV [[pdf](/files/long-cv.pdf)]
+- Long CV [[pdf](/files/long-cv.pdf)] -->
 
 ### Transcripts
-- MSc [[pdf](/files/M.Sc.Transcript-en.pdf)]
-- BSc [[pdf](/files/B.Sc.Transcript-en.pdf)]
+<!-- - MSc [[pdf](/files/M.Sc.Transcript-en.pdf)]
+- BSc [[pdf](/files/B.Sc.Transcript-en.pdf)] -->
 
 
 <!-- {% include base_path %}
